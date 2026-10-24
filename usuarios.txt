@@ -1,0 +1,2 @@
+1001;yuta;yuta@gmail.com;12345;Administrador
+22;adrian;adrian@gmail.com;1234;Administrador

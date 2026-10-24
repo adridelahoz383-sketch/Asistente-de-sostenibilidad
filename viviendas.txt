@@ -1,0 +1,50 @@
+Apt-101;1001;65.5;Carlos Mendoza;1047123001;Torre 1 Apt 101
+Apt-102;1001;72.0;Ana Rodriguez;1047123002;Torre 1 Apt 102
+Apt-103;1001;58.3;Luis Martinez;1047123003;Torre 1 Apt 103
+Apt-104;1001;85.1;Maria Elena Gomez;1047123004;Torre 1 Apt 104
+Apt-105;1001;65.5;Jorge Ivan Castro;1047123005;Torre 1 Apt 105
+Apt-106;1001;72.0;Sofia Valentina Ortiz;1047123006;Torre 1 Apt 106
+Apt-107;1001;90.4;Andres Felipe Rios;1047123007;Torre 1 Apt 107
+Apt-108;1001;58.3;Diana Marcela Toro;1047123008;Torre 1 Apt 108
+Apt-109;1001;65.5;Pedro Antonio Nel;1047123009;Torre 1 Apt 109
+Apt-110;1001;85.1;Laura Camila Florez;1047123010;Torre 1 Apt 110
+Apt-111;1001;72.0;Santiago Ramirez;1047123011;Torre 1 Apt 111
+Apt-112;1001;58.3;Claudia Patricia Mejia;1047123012;Torre 1 Apt 112
+Apt-113;1001;65.5;Fernando Jose Zuleta;1047123013;Torre 1 Apt 113
+Apt-114;1001;90.4;Valentina Herrera;1047123014;Torre 1 Apt 114
+Apt-115;1001;85.1;Ricardo Alberto Diaz;1047123015;Torre 1 Apt 115
+Apt-116;1001;72.0;Natalia Andrea Restrepo;1047123016;Torre 1 Apt 116
+Apt-117;1001;58.3;Mateo Sebastian Villa;1047123017;Torre 1 Apt 117
+Apt-118;1001;65.5;Gabriela Maria Cardona;1047123018;Torre 1 Apt 118
+Apt-119;1001;90.4;Juan Camilo Hoyos;1047123019;Torre 1 Apt 119
+Apt-120;1001;85.1;Paula Alejandra Marin;1047123020;Torre 1 Apt 120
+Apt-121;1001;72.0;David Alejandro Vargas;1047123021;Torre 1 Apt 121
+Apt-122;1001;58.3;Manuela Zuluaga;1047123022;Torre 1 Apt 122
+Apt-123;1001;65.5;Alejandro Muñoz;1047123023;Torre 1 Apt 123
+Apt-124;1001;90.4;Sara Milena Giraldo;1047123024;Torre 1 Apt 124
+Apt-125;1001;85.1;Daniel Francisco Rojas;1047123025;Torre 1 Apt 125
+Apt-126;1001;72.0;Isabella Correa;1047123026;Torre 1 Apt 126
+Apt-127;1001;58.3;Samuel Enrique Palacio;1047123027;Torre 1 Apt 127
+Apt-128;1001;65.5;Camila Andrea Lopez;1047123028;Torre 1 Apt 128
+Apt-129;1001;90.4;Nicolas Javier Beltran;1047123029;Torre 1 Apt 129
+Apt-130;1001;85.1;Juliana Maria Salazar;1047123030;Torre 1 Apt 130
+Apt-131;1001;72.0;Esteban Dario Franco;1047123031;Torre 1 Apt 131
+Apt-132;1001;58.3;Valeria Sofia Henao;1047123032;Torre 1 Apt 132
+Apt-133;1001;65.5;Sebastian Jose Guerra;1047123033;Torre 1 Apt 133
+Apt-134;1001;90.4;Daniela Alexandra Duque;1047123034;Torre 1 Apt 134
+Apt-135;1001;85.1;Lucas Mateo Bermudez;1047123035;Torre 1 Apt 135
+Apt-136;1001;72.0;Mariana Perez;1047123036;Torre 1 Apt 136
+Apt-137;1001;58.3;Simon Eduardo Agudelo;1047123037;Torre 1 Apt 137
+Apt-138;1001;65.5;Carolina Ines Jaramillo;1047123038;Torre 1 Apt 138
+Apt-139;1001;90.4;Tomas Ignacio Montoya;1047123039;Torre 1 Apt 139
+Apt-140;1001;85.1;Luciana Gomez;1047123040;Torre 1 Apt 140
+Apt-141;1001;72.0;Miguel Angel Arias;1047123041;Torre 1 Apt 141
+Apt-142;1001;58.3;Salome Benitez;1047123042;Torre 1 Apt 142
+Apt-143;1001;65.5;Jeronimo Castrillon;1047123043;Torre 1 Apt 143
+Apt-144;1001;90.4;Antonia Marcela Serna;1047123044;Torre 1 Apt 144
+Apt-145;1001;85.1;Emmanuel David Espinosa;1047123045;Torre 1 Apt 145
+Apt-146;1001;72.0;Paulina Quiroz;1047123046;Torre 1 Apt 146
+Apt-147;1001;58.3;Benjamin Alvarez;1047123047;Torre 1 Apt 147
+Apt-148;1001;65.5;Emilia Maria Chaverra;1047123048;Torre 1 Apt 148
+Apt-149;1001;90.4;Samuel David Bedoya;1047123049;Torre 1 Apt 149
+Apt-150;1001;85.1;Manuela Sofia Ceballos;1047123050;Torre 1 Apt 150
